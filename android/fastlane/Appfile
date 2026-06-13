@@ -1,0 +1,2 @@
+json_key_file("fastlane/play-store-credentials.example.json") # example only
+package_name("com.example.your_app") # example only

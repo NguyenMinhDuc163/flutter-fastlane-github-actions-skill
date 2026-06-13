@@ -1,0 +1,3 @@
+app_identifier("com.example.your_app") # example only
+apple_id("developer@example.com") # example only
+team_id("ABCDE12345") # example only
